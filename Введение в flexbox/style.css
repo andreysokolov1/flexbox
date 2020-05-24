@@ -1,0 +1,13 @@
+.item {
+	width: 100px;
+	height: 100px;
+	background: red;
+	margin: 5px;
+	align-self: flex-end;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	height: 500px;
+}
